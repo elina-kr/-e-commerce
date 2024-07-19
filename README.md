@@ -1,4 +1,4 @@
-### Проект e-commerce
+### Project e-commerce
 
 Sales data from the online store.
 There are three data tables:
